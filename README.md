@@ -1,8 +1,7 @@
-<h1 align="center">
-    Weather In Hands
-</h1>
-
-
+<p align="center">
+  <img src="https://github.com/samuelcarvalhodev/weather-in-hands/blob/main/images/oie_9jkb1OYE2bTF%20(1).png" width="350" title="hover text">
+ 
+</p>
 
 <h4 align="center">
   🚀 Semana OmniStack 11.0
